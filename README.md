@@ -1,6 +1,3 @@
-# One-Time-Note
-Share one time notes, passwords or secrets. 
-
 # One-Time Note
 
 One-Time Note is a simple, secure note-sharing application that generates one-time links for notes. Once a note is viewed, the link expires, ensuring that the note can only be accessed once.

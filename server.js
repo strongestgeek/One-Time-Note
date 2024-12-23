@@ -8,7 +8,7 @@ const app = express();
 const PORT = 3000;
 
 // Use your custom domain
-const BASE_URL = 'https://note.strongestgeek.com';
+const BASE_URL = 'https://your.notes.url.com';
 
 app.use(bodyParser.json());
 app.use(express.static('public'));
